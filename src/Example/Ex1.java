@@ -8,6 +8,7 @@ public class Ex1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// Example 1 starting and learning of git and github
 		WebDriver driver=new ChromeDriver();
 		String name="Rushikesh";
 		driver.manage().window().maximize();
